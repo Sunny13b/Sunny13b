@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Kumar Pal
 
-<!--
-**Sunny13b/Sunny13b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React • Node • PHP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 💻 1+ year experience in Web Development
+* ⚡ Skilled in React, Node.js, PHP & MySQL
+* 🌱 Currently learning Next.js
+* 🎯 Focused on building real-world applications
+
+---
+
+## 🔥 Featured Projects
+
+### 🔗 Bitlink – URL Shortener
+
+* Full-stack URL shortener with fast redirection
+  👉 Live: https://bitlink-mauve.vercel.app/
+
+---
+
+### ✅ iTask – To-Do App
+
+* Task manager with CRUD operations
+  👉 Live: https://rrmusic.freewebhostmost.com/
+
+---
+
+### 🌐 Portfolio Website
+
+* Modern animated developer portfolio
+  👉 Live: (your portfolio link)
+
+---
+
+## 🛠 Tech Stack
+
+* Frontend: React, JavaScript, Tailwind
+* Backend: Node.js, Express, PHP, Laravel
+* Database: MongoDB, MySQL
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: [rahulpal87093@gmail.com](mailto:rahulpal87093@gmail.com)
+* 📱 Phone: +91 8709301587
+
+---
+
+⭐ Always building & learning
