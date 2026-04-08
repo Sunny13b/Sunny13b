@@ -47,7 +47,7 @@
 ## 📫 Connect with Me
 
 * 📧 Email: [rahulpal87093@gmail.com](mailto:rahulpal87093@gmail.com)
-* 📱 Phone: +91 8709301587
+  
 
 ---
 
